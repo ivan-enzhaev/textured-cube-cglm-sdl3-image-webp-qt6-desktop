@@ -4,7 +4,7 @@ if(NOT CMAKE_BUILD_TYPE)
     set(CMAKE_BUILD_TYPE "Debug")
 endif()
 
-project(textured-cube-cglm-sdl3-image-webp-qt-desktop CXX C)
+project(textured-cube-cglm-sdl3-image-webp-qt6-desktop CXX C)
 
 set(CMAKE_CXX_STANDARD 20)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
